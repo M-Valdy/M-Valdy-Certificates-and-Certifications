@@ -1,6 +1,7 @@
-# HackerRank-Certifications
+# M-Valdy's Certifications
 HackerRank Profile: [HackerRank Profile](https://www.hackerrank.com/profile/mevald620)
-## This repository has my HackerRank Certifications
+FreeCodeCamp Profile: [FreeCodeCamp Profile](https://www.freecodecamp.org/M-Valdy)
+## This repository has all of my Computer Science/IT related Certifications
 ---
 | Certification | Link |
 | ------------- | ----- |
